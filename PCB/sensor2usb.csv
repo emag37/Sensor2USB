@@ -1,0 +1,30 @@
+Reference, Value, Footprint, Datasheet, Digikey Part,Qty
+R6,68,Resistors_SMD:R_0805_HandSoldering,,311-68.0CRTR-ND,1
+R5,68,Resistors_SMD:R_0805_HandSoldering,,311-68.0CRTR-ND,1
+D2,LED_BLUE,LEDs:LED_PLCC_2835_Handsoldering,,CLM3A-BKW-CSBUB363CT-ND,1
+R1,1.5k,Resistors_SMD:R_0805_HandSoldering,,311-1.50KCRCT-ND,1
+C5,100nF,Capacitors_SMD:C_0805_HandSoldering,,311-1136-1-ND,1
+C6,47uF,Capacitors_ThroughHole:CP_Radial_D4.0mm_P1.50mm,,P15778CT-ND,1
+P2,CONN_02X03,Pin_Headers:Pin_Header_Straight_2x03_Pitch1.27mm,,609-3710-ND,1
+U1,AP3015,TO_SOT_Packages_SMD:SOT-23-5,,AP3015KTR-G1DICT-ND,1
+C3,4.7u,Capacitors_SMD:C_0805_HandSoldering,,311-1371-6-ND,1
+L1,10u,Inductors:Inductor_1212,,SRN3015TA-100MCT-ND,1
+D3,500mA 40V,Diodes_SMD:D_SOD-323_HandSoldering,,DB2J40700LCT-ND,1
+R2,2.4M,Resistors_SMD:R_0805_HandSoldering,,541-2.40MCCT-ND,1
+R3,130k,Resistors_SMD:R_0805_HandSoldering,,P130KCCT-ND,1
+C1,4.7u,Capacitors_SMD:C_0805_HandSoldering,,311-1371-6-ND,1
+P3,CONN_01X04,Connect:USB_B,,102-3996-ND,1
+D1,LED_BLUE,LEDs:LED_PLCC_2835_Handsoldering,,CLM3A-BKW-CSBUB363CT-ND,1
+IC1,ATTINY85-S,Housings_SOIC:SOIJ-8_5.3x5.3mm_Pitch1.27mm,,ATTINY85-20SURCT-ND,1
+U2,LTV-827,Housings_DIP:DIP-8_W7.62mm,,160-1362-5-ND,1
+P1,CONN_01X06,Connectors_Molex:Molex_NanoFit_1x06x2.50mm_Straight,,277-6608-ND,1
+R4,2.2k,Resistors_SMD:R_0805_HandSoldering,,RMCF0805FT2K20DKR-ND,1
+R7,2.2k,Resistors_SMD:R_0805_HandSoldering,,RMCF0805FT2K20DKR-ND,1
+R8,2.2k,Resistors_SMD:R_0805_HandSoldering,,RMCF0805FT2K20DKR-ND,1
+R9,2.2k,Resistors_SMD:R_0805_HandSoldering,,RMCF0805FT2K20DKR-ND,1
+C2,100n,Capacitors_SMD:C_0805_HandSoldering,,311-1136-1-ND,1
+C4,100n,Capacitors_SMD:C_0805_HandSoldering,,311-1136-1-ND,1
+R10,10k,Resistors_SMD:R_0805_HandSoldering,,311-10.0KCRCT-ND,1
+R11,2.2k,Resistors_SMD:R_0805_HandSoldering,,RMCF0805FT2K20DKR-ND,1
+SW1,SW_PUSH_SMALL_H,Kicad:E-Switch,,EG4792-ND,1
+C7,4.7u,Capacitors_SMD:C_0805_HandSoldering,,311-1371-6-ND,1
