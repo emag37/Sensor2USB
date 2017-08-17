@@ -10,3 +10,5 @@ Supports up to two sensors, but each board can be given a seperate address (up t
 Supports PNP/NPN sensors using an opto-coupler, just reverse the wiring depending on the sensor!
 
 Provides a 0.1A 24V boost regulator to power most sensors, works with switches as well.
+
+V-USB driver at: https://www.obdev.at/vusb/
